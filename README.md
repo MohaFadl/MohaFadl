@@ -23,7 +23,7 @@ I'm **Mohamed Medhat**, a passionate Teaching Assistant at **CIC** (Canadian int
 - Looking to collaborate on **open-source projects** and **educational tools**
 - Ask me about **Java, Python, Django, Flutter, C++, and game development**
 - Reach me: [GitHub Profile](https://github.com/MohaFadl)
-- Fun fact: I can debug code and play games simultaneously! 🎮
+- Fun fact: I can debug code and play games simultaneously!
 ---
 
 ## 🛠️ Tech Stack & Tools
